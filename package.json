@@ -1,0 +1,21 @@
+{
+  "name": "unilog",
+  "version": "0.0.1",
+  "description": "A unified yet simple logging interface whose output can be redirected.",
+  "keywords": [
+    "log",
+    "logger",
+    "logging",
+    "unified",
+    "universal"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fluidsonic/unilog",
+  "bugs": "https://github.com/fluidsonic/unilog/issues",
+  "author": "Marc Knaup <marc.knaup@koeln.de>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluidsonic/unilog.git"
+  },
+  "main": "lib/index.js"
+}
