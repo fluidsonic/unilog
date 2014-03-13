@@ -1,7 +1,7 @@
 {
   "name": "unilog",
-  "version": "0.0.1",
-  "description": "A unified yet simple logging interface.",
+  "version": "0.0.2",
+  "description": "A unified yet simple log interface.",
   "keywords": [
     "log",
     "logger",
@@ -17,5 +17,8 @@
     "type": "git",
     "url": "https://github.com/fluidsonic/unilog.git"
   },
-  "main": "lib/index.js"
+  "main": "lib/index.js",
+  "dependencies": {
+    "unilog-console": "0.x"
+  }
 }

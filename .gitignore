@@ -1,6 +1,9 @@
 /.project
 /.settings
+/coverage
 .DS_Store
+.dropbox
+desktop.ini
 node_modules
 npm-debug.log
 *.sublime-project

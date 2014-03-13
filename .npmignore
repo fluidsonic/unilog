@@ -2,9 +2,12 @@
 /.project
 /.settings
 /.travis.yml
+/coverage
 /examples
-/tests
+/test
 .DS_Store
+.dropbox
+desktop.ini
 node_modules
 npm-debug.log
 *.sublime-project
