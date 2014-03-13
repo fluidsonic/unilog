@@ -1,6 +1,6 @@
 {
   "name": "unilog",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A unified yet simple log interface.",
   "keywords": [
     "log",
@@ -19,6 +19,6 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "unilog-console": "0.x"
+    "unilog-console": "~0.0.2"
   }
 }
