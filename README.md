@@ -1,9 +1,10 @@
 unilog
 ======
 
+[![Build Status](https://travis-ci.org/fluidsonic/unilog.png?branch=master)](https://travis-ci.org/fluidsonic/unilog)
+[![Coverage Status](https://coveralls.io/repos/fluidsonic/unilog/badge.png)](https://coveralls.io/r/fluidsonic/unilog)
 [![Dependency Status](https://gemnasium.com/fluidsonic/unilog.png)](https://gemnasium.com/fluidsonic/unilog)
 [![Code Climate](https://codeclimate.com/github/fluidsonic/unilog.png)](https://codeclimate.com/github/fluidsonic/unilog)
-[![dependencies](https://sourcegraph.com/api/repos/github.com/fluidsonic/unilog/badges/dependencies.png)](https://sourcegraph.com/github.com/fluidsonic/unilog)
 
 A unified yet simple log interface for node.js.
 
@@ -261,6 +262,14 @@ Installation
 ------------
 
 	$ npm install unilog
+
+
+
+Testing
+-------
+
+    $ npm install
+    $ npm test
 
 
 
