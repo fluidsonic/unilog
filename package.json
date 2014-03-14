@@ -1,6 +1,6 @@
 {
   "name": "unilog",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A unified yet simple log interface.",
   "keywords": [
     "log",
@@ -22,7 +22,7 @@
     "test": "istanbul cover ./node_modules/mocha/bin/_mocha -- --reporter spec"
   },
   "dependencies": {
-    "unilog-console": "~0.0.2"
+    "unilog-console": "~0.1.0"
   },
   "devDependencies": {
     "expect.js": "~0.3.1",
